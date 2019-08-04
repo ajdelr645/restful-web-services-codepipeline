@@ -5,3 +5,4 @@ gradle_build
 .project
 .gradle
 .DS_Store
+/target/
